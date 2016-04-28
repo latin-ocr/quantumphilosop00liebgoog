@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quantumphilosop00liebgoog_0068.png"; bbox 0 0 4467 6167; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 356 5739 1778 5774">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 356 5739 1778 5774">
+     <span class='ocr_line' id='line_1_1' title="bbox 382 5739 386 5746; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 382 5739 386 5746; x_wconf 78' lang='grc' dir='ltr'>ι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 356 5753 1778 5774; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 356 5757 416 5774; x_wconf 53' lang='lat' dir='ltr'>„im</span> <span class='ocrx_word' id='word_1_3' title='bbox 445 5771 449 5774; x_wconf 95' lang='lat'>.</span> <span class='ocrx_word' id='word_1_4' title='bbox 485 5753 517 5774; x_wconf 70' lang='lat'>¹.:.:</span> <span class='ocrx_word' id='word_1_5' title='bbox 1750 5757 1778 5774; x_wconf 56' lang='lat'>⁸..</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2230 0 4467 6164">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2230 0 4467 6164">
+     <span class='ocr_line' id='line_1_3' title="bbox 2230 0 4467 6164; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 2230 0 4467 6164; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
